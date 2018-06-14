@@ -1,6 +1,7 @@
 Requirements: VS 2013, PostgreSQL. PgAdmin3 and above allows to view BD and tables.
 
 Description:
+This example shows how to work with EntityFramework.
 Creates connection to Postgres.
 Creates tables 'persons', 'teachers', 'students', 'phones'.
 Shows 'many to many' scheme between students and teachers.
